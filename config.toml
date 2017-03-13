@@ -8,9 +8,9 @@ theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_code"
 
 [params]
-	name = "Hugo"
+	name = "Sean Porter"
 	description = "Blog Description"
-	bio = "Blog biology"
+	bio = "glaaki"
 	# Enter optionally your twitter account
 	twitter = "dreadpiratesean"
 	enableRSS = false
@@ -71,6 +71,5 @@ googleAnalytics = "your_google_analytics_code"
 
 # Add additional social link entries underneath
 [social]
-	facebook-square = "your_facebook_link"
   twitter-square = "https://twitter.com/dreadpiratesean"
   github-square = "https://github.com/glaaki"
